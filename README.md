@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Pixel Art Maker Project
+This is a simple pixel art maker project developed using Javascript for Udacity's FEND program. Live version is here
 
-You can use the [editor on GitHub](https://github.com/Mizoo1/Pixel-Art-Maker-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+How to Launch
+To launch the application:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mizoo1/Pixel-Art-Maker-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Download, extract and open the index.html in the browser (or)
+Launch the live link from the browser
+Main Features
+User can enter the grid size of his choice and click "Submit" to draw the grid.
+Cell color can be chosen using the ColorPicker.
+On clicking a cell twice, the cell color reverts to white.
+"Reset" button will bring the app back to the empty screen.
