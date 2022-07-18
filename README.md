@@ -11,3 +11,4 @@ User can enter the grid size of his choice and click "Submit" to draw the grid.
 Cell color can be chosen using the ColorPicker.
 On clicking a cell twice, the cell color reverts to white.
 "Reset" button will bring the app back to the empty screen.
+'Muaaz Bdear'
